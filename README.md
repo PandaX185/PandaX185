@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdullah and I'm a Backend Developer @goplaceapp, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Abdullah and I'm a Backend Developer @GoPlace, from Egypt</h2>
 
 ###
 
